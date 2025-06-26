@@ -19,3 +19,6 @@ spring:
   devtools:
     restart:
       exclude: "resources/static/**"
+      
+server:
+  port: 8082
